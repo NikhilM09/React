@@ -26,7 +26,6 @@ const parent2 = React.createElement("div",{className: "parent2"},
 
 // const heading1 = React.createElement("h1",{className : "heading1"}, "This is heading 1")
 
-// const heading2 = React.createElement("h2",{className : "heading2"}, "This is heading 2")
 
 const root = ReactDOM.createRoot(document.getElementById("root")); 
 
